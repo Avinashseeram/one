@@ -467,7 +467,7 @@
             font-weight: 600;
             margin-left: 10px;
         }
-
+    
         /* Testimonials Section */
         .testimonials {
             margin-bottom: 60px;
